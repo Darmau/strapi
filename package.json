@@ -10,11 +10,11 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@strapi/plugin-graphql": "^4.3.9",
-    "@strapi/plugin-i18n": "4.3.9",
+    "@strapi/plugin-graphql": "^4.4.5",
+    "@strapi/plugin-i18n": "4.4.5",
     "@strapi/plugin-seo": "^1.7.5",
-    "@strapi/plugin-users-permissions": "4.3.9",
-    "@strapi/strapi": "4.3.9",
+    "@strapi/plugin-users-permissions": "4.4.5",
+    "@strapi/strapi": "4.4.5",
     "pg": "^8.6.0",
     "strapi-plugin-local-image-sharp": "^1.2.1",
     "strapi-plugin-react-editorjs": "^2.0.2",
