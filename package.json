@@ -16,6 +16,7 @@
     "@strapi/plugin-users-permissions": "4.3.9",
     "@strapi/strapi": "4.3.9",
     "pg": "^8.6.0",
+    "strapi-plugin-local-image-sharp": "^1.2.1",
     "strapi-plugin-react-editorjs": "^2.0.2",
     "strapi-plugin-sitemap": "^2.0.8"
   },
